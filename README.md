@@ -8,7 +8,8 @@
 - Project 5 will have a repository called <a href="">CMPG 323 Project 5 - 32151314</a>
 
 # Diagram And Project Explanation
-
+Project 1 Branching factor
+![](something.drawio.png)
 
 
 
