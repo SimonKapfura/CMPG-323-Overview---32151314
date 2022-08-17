@@ -42,7 +42,7 @@ Project 1 Branching factor
 - hotfix branch will be for any bug fixes that may occur
 
 ## Use of .gitignore
-The use of .gitignore is important because it tells the system which files should not be regarded as part of the repository. It can be used to ignore some test files that were used to test the codes when it was being developed and they will not be part of the code that will go to the main branch when changes are commited.
+The use of .gitignore is important because it tells the system which files should not be regarded as part of the repository. It can be used to ignore some test files that were used to test the codes when it was being developed and they will not be part of the code that will go to the main branch when changes are commited. The .gitignore can also be used to store sensetive information like passwords, authentication tokens and other sensetive information and they will be kept safe from unauthorised access.
 
 ## Storage of credentials and sensitive information
 Security is very important especially when there will be sensetive information handles, users should rest asured that their information is well secured and can not have unauthorised access. So the storage of sensetive information should be done well to ensure a good and safe service between client and system. Information should be stored in such a way that no one else besides the intended user will not be able to access it, there are many ways to do this and the most poppular and effective one is encryption of the information so that in an even that the information gets leaked somehow it will not be readable because it was encrypted and not just stored as plain text.
