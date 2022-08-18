@@ -1,11 +1,13 @@
 # CMPG-323-Overview---32151314
 
 ## Projects
-- Project 1 is the overview of the other projects and will use <a href="https://github.com/SimonKapfura/CMPG-323-Overview---32151314">CMPG 323 Project 1 - 32151314</a> repositoty
-- Project 2 will have a repository called <a href="">CMPG 323 Project 2 - 32151314</a>
-- Project 3 will have a repository called <a href="">CMPG 323 Project 3 - 32151314</a>
-- Project 4 will have a repository called <a href="">CMPG 323 Project 4 - 32151314</a>
-- Project 5 will have a repository called <a href="">CMPG 323 Project 5 - 32151314</a>
+| Project                                     | Project Repository Link                                   | Due Date          |                                 
+| :-----                                      | :---                                                      | :----             |
+| Project 1: Agile & Scrum                    | <a href="https://github.com/SimonKapfura/CMPG-323-Overview---32151314">CMPG 323 Project 1 - 32151314</a>              | 18 August 2022    |
+| Project 2: API Development                  | <a href="">CMPG 323 Project 2 - 32151314</a>              | 08 September 2022 |
+| Project 3: Web App Project Testing Patterns | <a href="">CMPG 323 Project 3 - 32151314</a>              | 29 September 2022 |
+| Project 4: RPA & Testing Project            | <a href="">CMPG 323 Project 4 - 32151314</a>              | 20 October 2022   |
+| Project 5: Reporting Project                | <a href="">CMPG 323 Project 5 - 32151314</a>              | 03 November 2022  |
 
 # Diagram And Project Explanation
 Project 1 Branching factor
@@ -45,4 +47,13 @@ Project 1 Branching factor
 The use of .gitignore is important because it tells the system which files should not be regarded as part of the repository. It can be used to ignore some test files that were used to test the codes when it was being developed and they will not be part of the code that will go to the main branch when changes are commited. The .gitignore can also be used to store sensetive information like passwords, authentication tokens and other sensetive information and they will be kept safe from unauthorised access.
 
 ## Storage of credentials and sensitive information
-Security is very important especially when there will be sensetive information handles, users should rest asured that their information is well secured and can not have unauthorised access. So the storage of sensetive information should be done well to ensure a good and safe service between client and system. Information should be stored in such a way that no one else besides the intended user will not be able to access it, there are many ways to do this and the most poppular and effective one is encryption of the information so that in an even that the information gets leaked somehow it will not be readable because it was encrypted and not just stored as plain text.
+Security is very important especially when there will be sensetive information handles, users should rest asured that their information is well secured and can not have unauthorised access. So the storage of sensetive information should be done well to ensure a good and safe service between client and system. Information should be stored in such a way that no one else besides the intended user will not be able to access it, there are many ways to do this and the most poppular and effective one is encryption of the information so that in an even that the information gets leaked somehow it will not be readable because it was encrypted and not just stored as plain text. According to Github (2022) Sensitive information that is stored unencrypted is accessible to an attacker who gains access to the storage. This is particularly important for cookies, which are stored on the machine of the end-user.
+
+# Reference List
+TanUv90 (2017). GitHub Readme Images Tutorial (screenshots in readmes). YouTube. Available at: https://www.youtube.com/watch?v=hHbWF1Bvgf4 [Accessed 14 Aug. 2022].
+
+Github.com. (2022). Clear text storage of sensitive information — CodeQL query help documentation. [online] Available at: https://codeql.github.com/codeql-query-help/javascript/js-clear-text-storage-of-sensitive-data/ [Accessed 16 Aug. 2022].
+
+‌
+
+‌
