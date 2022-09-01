@@ -1,13 +1,13 @@
 # CMPG-323-Overview---32151314
 # CHARTS SCREENSHOTS
 - Number of items by label chart
-  ![](New Tab - Google Chrome 2022_09_01 13_27_07.png)
+  ![](1.png)
 - Number of items by sprint chart
-  ![](New Tab - Google Chrome 2022_09_01 13_27_40.png)
+  ![](2.png)
 - Number of items by status chart
-  ![](New Tab - Google Chrome 2022_09_01 13_27_48.png)
+  ![](3.png)
 - Burndown chart
-  ![](New Tab - Google Chrome 2022_09_01 13_27_58.png)
+  ![](4.png)
 
 ## Projects
 | Project                                     | Project Repository Link                                   | Due Date          |                                 
