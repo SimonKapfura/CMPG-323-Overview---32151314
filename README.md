@@ -14,7 +14,7 @@
 | :-----                                      | :---                                                      | :----             |
 | Project 1: Agile & Scrum                    | <a href="https://github.com/SimonKapfura/CMPG-323-Overview---32151314">CMPG 323 Project 1 - 32151314</a>              | 18 August 2022    |
 | Project 2: API Development                  | <a href="https://github.com/SimonKapfura/CMPG-323-Project-2---32151314">CMPG 323 Project 2 - 32151314</a>              | 08 September 2022 |
-| Project 3: Web App Project Testing Patterns | <a href="">CMPG 323 Project 3 - 32151314</a>              | 29 September 2022 |
+| Project 3: Web App Project Testing Patterns | <a href="https://github.com/SimonKapfura/CMPG-323-Project-3---32151314">CMPG 323 Project 3 - 32151314</a>              | 29 September 2022 |
 | Project 4: RPA & Testing Project            | <a href="">CMPG 323 Project 4 - 32151314</a>              | 20 October 2022   |
 | Project 5: Reporting Project                | <a href="">CMPG 323 Project 5 - 32151314</a>              | 03 November 2022  |
 
